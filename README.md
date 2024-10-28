@@ -47,7 +47,7 @@ This dataset is a collection of resume examples sourced from [LiveCareer](https:
 
 ### Content
 
-- **Total Resumes**: 2400+ resumes in both string (CSV) and PDF formats.
+- **Total Resumes**: 2,484 resumes in both string (CSV) and PDF formats.
 - **PDF Storage**: PDF files are organized in the `data` folder, with subfolders for each job category. Each resume PDF is named according to the unique ID provided in the CSV file.
 
 ### CSV Structure
